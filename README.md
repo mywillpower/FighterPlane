@@ -1,0 +1,6 @@
+# FighterPlane
+a simple STG game constructed by UnrealEngine4
+
+
+using blueprint only,UI builded by UMG,support two player in LAN ,have fun.
+I will update until it become a game I expect.
